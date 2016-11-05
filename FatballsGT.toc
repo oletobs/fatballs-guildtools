@@ -1,0 +1,7 @@
+## Interface: 70100 
+## Version: 0.0.1
+## Title: Fat Balls Guild Tools
+## SavedVariables: FatballsGTDB
+
+Textures
+Core.lua
